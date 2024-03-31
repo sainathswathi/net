@@ -1,0 +1,43 @@
+body
+{
+    background-image: url("image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1
+{
+    text-align: center;
+    color: red;
+    font-size: 60px;
+}
+h2
+{
+    text-align: center;
+    color:white;
+    font-size: 40px;
+
+}
+#para1
+{
+    text-align: center;
+}
+#para2
+{
+    text-align: center;
+     
+}
+#para3
+{
+    background-color: black;
+    padding:10px;
+    margin: auto;
+    border:1px solidblack;
+    height:500px;
+    width:300px;
+    text-indent:18px;
+}
+#para4
+{
+    text-align: center;
+    color:white;
+}
